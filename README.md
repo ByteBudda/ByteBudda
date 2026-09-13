@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**ByteBudda/ByteBudda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю под Android и кручу бэкенд с сетевой инфраструктурой.
 
-Here are some ideas to get you started:
+### 🚀 Главный проект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[RuVideoHub](https://github.com/твой-юзернейм/RuVideoHub)** — нативный видеоклиент для Android и Android TV.
+  * **Стек:** Kotlin, Jetpack Compose, Media3 (ExoPlayer), Room, Retrofit, Koin.
+  * **Фичи:** HLS-стриминг, поддержка TV-пультов, кастомные темы, фоновое кэширование и шейдерные видеоэффекты.
+
+---
+
+### 🛠 Стек и технологии
+
+* **Mobile:** Kotlin, Jetpack Compose, Android SDK, Media3
+* **Backend & Scripting:** Python, Node.js, Bash
+* **DevOps & Infra:** Linux, Docker, Nginx
+
+---
+
+### 📬 Связь и поддержка
+
+* **Telegram-канал:** [@ruvideohub](https://t.me/ruvideohub)
+* **Boosty:** [boosty.to/bytebudda](https://boosty.to/bytebudda)
