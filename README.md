@@ -4,7 +4,7 @@
 
 ### 🚀 Главный проект
 
-* **[RuVideoHub](https://github.com/твой-юзернейм/RuVideoHub)** — нативный видеоклиент для Android и Android TV.
+* **[RuVideoHub](https://github.com/bytebudda/RuVideoHub)** — нативный видеоклиент для Android и Android TV.
   * **Стек:** Kotlin, Jetpack Compose, Media3 (ExoPlayer), Room, Retrofit, Koin.
   * **Фичи:** HLS-стриминг, поддержка TV-пультов, кастомные темы, фоновое кэширование и шейдерные видеоэффекты.
 
