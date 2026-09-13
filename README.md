@@ -1,6 +1,6 @@
 # Привет 👋
 
-Разрабатываю под Android и кручу бэкенд с сетевой инфраструктурой.
+Разрабатываю под Android.
 
 ### 🚀 Главный проект
 
@@ -13,7 +13,6 @@
 ### 🛠 Стек и технологии
 
 * **Mobile:** Kotlin, Jetpack Compose, Android SDK, Media3
-* **Backend & Scripting:** Python, Node.js, Bash
 * **DevOps & Infra:** Linux, Docker, Nginx
 
 ---
